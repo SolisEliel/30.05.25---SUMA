@@ -1,0 +1,8 @@
+Algoritmo sumar
+	escribir "Ingrese el primer número: "
+	leer n1
+	escribir "Ingrese el segundo número: '
+	leer n2
+	r = n1+n2
+	escribir "El resultado es ", r
+FinAlgoritmo
